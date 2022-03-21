@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aravind
 - 👀 I’m interested in backend/automation/IoT development
-- 🌱 I’m currently working as a IoT Developer
-- 💞️ I’m looking to collaborate on ML projects
+- 🌱 I’m currently working as a Backend DEveloper
+- 💞️ I’m looking to collaborate on Django
 - 📫 About me https://jestronics.ml/
