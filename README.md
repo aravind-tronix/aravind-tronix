@@ -2,4 +2,4 @@
 - 👀 I’m interested in backend/automation/IoT development
 - 🌱 I’m currently working as a Backend Developer
 - 💞️ I’m looking to collaborate on React JS
-- 📫 About me https://jestronics.ml/
+- 📫 About me [https://jestronics.ml/](https://www.aravind.one/)
